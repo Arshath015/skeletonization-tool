@@ -85,3 +85,6 @@ The library currently only supports binary images.
 * Improve performance using parallel processing.
 ## License
 The library is licensed under the MIT License.
+
+---
+**Last updated:** 2026-07-19
