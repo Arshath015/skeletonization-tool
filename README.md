@@ -87,4 +87,4 @@ The library currently only supports binary images.
 The library is licensed under the MIT License.
 
 ---
-**Last updated:** 2026-07-19
+**Last updated:** 2026-07-23
