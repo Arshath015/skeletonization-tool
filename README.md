@@ -88,3 +88,10 @@ The library is licensed under the MIT License.
 
 ---
 **Last updated:** 2026-07-23
+
+
+## Requirements
+
+```
+pip install -r requirements.txt
+```
